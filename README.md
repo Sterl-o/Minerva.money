@@ -1,20 +1,17 @@
-# Minerva.money
-Decentralized Perpetual Exchange built on Optimism
+---
+description: The Redemption of Sterling.Finance
+---
 
-OP Mainnet Smart Contracts -
+# 🦉 Introduction
 
-MINE: 
-Vault: 
-Router: 
-Position Router: 
-OrderBook:
-Reader: 
-Reward Reader: 
-OrderBook Reader: 
-StakedMINE:
-Staked MLP: 
-MLP Manager: 
-Reward Router: 
-MLP RewardRouter: 
-Referral Storage: 
-MINE-ETH Velodrome Pool: 
+Minerva is a spin off decentralized exchange (DEX) of Sterling.Finance on Arbitrum. Minerva is an automated market-making (AMM) decentralized exchange (DEX) on Optimism.\
+\
+Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees and leverage trading.\
+\
+Dynamic pricing is supported by [Chainlink Oracles](https://chain.link/) and an aggregate of prices from leading volume exchanges.\
+
+
+\
+
+
+<figure><img src=".gitbook/assets/frame_123_delay-0.04s.gif" alt=""><figcaption></figcaption></figure>
