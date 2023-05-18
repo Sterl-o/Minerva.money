@@ -1,5 +1,5 @@
 ---
-description: The Redemption of Sterling.Finance
+description: The next phase of Sterling.Finance
 ---
 
 # 🦉 Introduction
