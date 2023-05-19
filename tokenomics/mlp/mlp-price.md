@@ -1,6 +1,6 @@
 ---
 description: >-
-  The price of GLP is based on the total worth of all tokens in the pool and
+  The price of MLP is based on the total worth of all tokens in the pool and
   factors in pending profits and losses from all currently opened positions.
 ---
 

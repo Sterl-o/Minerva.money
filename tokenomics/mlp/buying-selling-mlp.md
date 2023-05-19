@@ -4,7 +4,7 @@ description: Buying and selling GLP can be done through the MLPRewardRouter.
 
 # Buying / Selling MLP
 
-To buy MLP, call `mintAndStakeGlp`
+To buy MLP, call `mintAndStakeMlp`
 
 * `_token`: the token to buy MLP with
 * `_amount`: the amount of token to use for the purchase
