@@ -38,3 +38,8 @@
 * [💰 Rewards](core-features/rewards.md)
 * [🏆 Referall](core-features/referall.md)
 * [🏛 Governance](core-features/governance.md)
+
+## 📄 Terms and Services
+
+* [🖋 Terms of Use](terms-and-services/terms-of-use.md)
+* [Page 1](terms-and-services/page-1.md)
