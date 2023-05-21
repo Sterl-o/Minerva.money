@@ -12,14 +12,12 @@ The burn ratio is set as follows:\
 
 ### Escrowed MINE (allMINE)
 
-Escrowed MINE (allMINE) can be used in two ways:\
+When you receive your Escrowed MINE (allMINE) after the migration, you can use them in two ways:\
 \
-1\. Staked for rewards similar to regular MINE tokens.\
+1\. Staking them for rewards; similar to regular MINE tokens.\
 2\. Vested to become actual MINE tokens over a period of one year\
 \
-Each staked Escrowed MINE (allMINE) token will earn the same amount of Escrowed MINE and ETH rewards as a regular MINE token.\
-\
-Note that you will be able to vest your Escrowed MINE (allMINE) from the migration.
+Each staked Escrowed MINE (allMINE) token will earn the same amount of Escrowed MINE and ETH rewards as a regular MINE token.
 
 ### Vesting
 
