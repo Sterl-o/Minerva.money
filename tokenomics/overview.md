@@ -23,7 +23,7 @@ Check the allocations table below for Minerva:
 
 <div align="center" data-full-width="true">
 
-<figure><img src="../.gitbook/assets/MLP_Tokens_Banner.jpg" alt=""><figcaption><p>MLP distribution chart</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Token_Distribution_Banner.jpg" alt=""><figcaption><p>Token Distribution</p></figcaption></figure>
 
 </div>
 
