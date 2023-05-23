@@ -42,4 +42,3 @@
 ## 📄 Terms and Services
 
 * [🖋 Terms of Use](terms-and-services/terms-of-use.md)
-* [Page 1](terms-and-services/page-1.md)

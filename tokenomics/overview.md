@@ -19,27 +19,14 @@ The tokenomics were designed to have a maximum cap of $MINE tokens, so scarcity 
 \
 MINE Token Supply is limited to **10,000,000**. Meaning no more tokens will be minted. This way we have split the token emission between the migration from [sterling.finance](https://sterling.finance) and [minerva.money](https://minerva.money).\
 \
-Check the allocations table below for Minerva **(xx% of total supply)**:\
+Check the allocations table below for Minerva:
 
+<div align="center" data-full-width="true">
 
-| Token Usage         | % of Allocation | MINE Tokens | Tokens Status      |
-| ------------------- | --------------- | ----------- | ------------------ |
-| Initial Liquidity   |                 |             | Locked Liquidity   |
-| Farming Rewards     |                 |             | Dist. Lin. 3 years |
-| Partnership Program |                 |             | Dist Lin. 4 years  |
-| Development Fund    |                 |             | Vest Lin. 3 years  |
-| Team                |                 |             | Vest Lin. 3 years  |
-| Project Development |                 |             | Vest Lin. 2 years  |
-| Airdrops            |                 |             | -                  |
+<figure><img src="../.gitbook/assets/MLP_Tokens_Banner.jpg" alt=""><figcaption><p>MLP distribution chart</p></figcaption></figure>
 
-**Escrowed tokens (xx% of total supply)** the tokenomics are describe as the following:\
+</div>
 
+\
 
-| Token Usage            | % of Allocation | allMINE Tokens | Tokens Status                    |
-| ---------------------- | --------------- | -------------- | -------------------------------- |
-| Minerva NFTs Sale      |                 |                | Staking in MLP (Revenue Sharing) |
-| MINE & allMINE Stakers |                 |                | Vesting 1 year                   |
-| MLP Stakers            |                 |                | Vesting 1 year                   |
-| DAO Fund               |                 |                | Vesting 1 year                   |
-| Dev Fund               |                 |                | Vesting 1 year                   |
 
