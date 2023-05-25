@@ -12,7 +12,7 @@ MLP consists of an index of assets used for swaps and leverage trading. It can b
 The price for minting and redemption is calculated based on (total worth of assets in index including profits and losses of open positions) / (MLP supply).
 {% endhint %}
 
-MLP holders earn Escrowed MINE rewards and 70% of platform fees distributed in ETH.&#x20;
+MLP holders earn Escrowed MINE rewards and 60% of platform fees distributed in ETH.&#x20;
 
 {% hint style="info" %}
 Note that the fees distributed are based on the number after deducting referral rewards and the network costs of keepers, keeper costs are usually around 1% of the total fees.
