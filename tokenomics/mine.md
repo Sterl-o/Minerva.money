@@ -20,7 +20,7 @@ The supply of MINE can be viewed on the Dashboard.\
 \
 The increase in circulating supply will vary depending on the number of tokens that get vested, and the amount of tokens used for marketing / partnerships. The forecasted max supply is 13.25 million MINE tokens.\
 \
-Minting beyond the max supply of 13.25 million is controlled by a 28 day timelock. This option will only be used if more products are launched and liquidity mining is required, a governance vote will be conducted before any changes.\
+Minting beyond the max supply of 10 million is controlled by a 28 day timelock. This option will only be used if more products are launched and liquidity mining is required, a governance vote will be conducted before any changes.\
 \
 MINE liquidity on Velodrome is gradually added as the price of MINE increases, the MINE liquidity pool is at **\<insert LP ADDRESS>**\
 \
