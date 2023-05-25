@@ -18,7 +18,7 @@ For more info on Escrowed MINE (allMINE) and Multiplier Points, please see the R
 
 The supply of MINE can be viewed on the Dashboard.\
 \
-The increase in circulating supply will vary depending on the number of tokens that get vested, and the amount of tokens used for marketing / partnerships. The forecasted max supply is 13.25 million MINE tokens.\
+The increase in circulating supply will vary depending on the number of tokens that get vested, and the amount of tokens used for marketing / partnerships. The forecasted max supply is 10 million MINE tokens.\
 \
 Minting beyond the max supply of 10 million is controlled by a 28 day timelock. This option will only be used if more products are launched and liquidity mining is required, a governance vote will be conducted before any changes.\
 \
