@@ -4,7 +4,7 @@ description: Official list of all the contracts
 
 # 📗 Contracts
 
-* VeloPriceFeed: 0xE00d90DfC5b2aD98B5e6a626795fa75398808365&#x20;
+* VeloPriceFeed: 0xDF2907Ca4db97764a17dD223BA434FfC23B17f17;
 * MINE: 0xE4d8701C69b3B94A620ff048e4226C895b67b2c0
 * TokenManager: 0x2F1107Aa43eBa7869F0BB94bF2B8e1efa37bCbA3&#x20;
 * Vault: 0x7EF6f8abAc00689e057C9ec14E34aC232255a2fb&#x20;
