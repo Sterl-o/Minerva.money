@@ -13,7 +13,6 @@
     * [📨 Router](general-resources/contracts/router.md)
     * [🏷 Price Feeds](general-resources/contracts/price-feeds.md)
   * [📙 Audit](general-resources/audit.md)
-  * [📕 API](general-resources/api.md)
   * [⚠ Risks](general-resources/risks.md)
   * [🛣 Roadmap](general-resources/roadmap.md)
 
