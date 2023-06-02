@@ -21,12 +21,5 @@ MINE Token Supply is limited to **10,000,000**. Meaning no more tokens will be m
 \
 Check the allocations table below for Minerva:
 
-<div align="center" data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Token_Distribution_Banner.jpg" alt=""><figcaption><p>Token Distribution</p></figcaption></figure>
-
-</div>
-
-\
-
+<figure><img src="../.gitbook/assets/Token_Distribution_Banner_2.jpg" alt=""><figcaption></figcaption></figure>
 

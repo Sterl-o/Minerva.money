@@ -6,19 +6,21 @@ description: MLP is the platform's liquidity provider token.
 
 ### Overview
 
-MLP consists of an index of assets used for swaps and leverage trading. It can be minted using any index asset and burnt to redeem any index asset.&#x20;
+MLP consists of an index of assets used for swaps and leverage trading. It can be minted using any index asset and burnt to redeem any index asset.
+
+<figure><img src="../../.gitbook/assets/MLP_Tokens_Banner.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The price for minting and redemption is calculated based on (total worth of assets in index including profits and losses of open positions) / (MLP supply).
 {% endhint %}
 
-MLP holders earn Escrowed MINE rewards and 60% of platform fees distributed in ETH.&#x20;
+MLP holders earn Escrowed MINE rewards and 60% of platform fees distributed in ETH.
 
 {% hint style="info" %}
 Note that the fees distributed are based on the number after deducting referral rewards and the network costs of keepers, keeper costs are usually around 1% of the total fees.
 {% endhint %}
 
-Staked MLP token address: \
+Staked MLP token address:\
 \
 As MLP holders provide liquidity for leverage trading, they will make a profit when leverage traders make a loss and vice versa.
 
@@ -34,7 +36,7 @@ After buying your tokens will automatically be staked and you will start earning
 
 #### Redeeming MLP
 
-Key in the amount of MLP you'd like to redeem at [https://minerva.money/#/buy\_mlp#redeem](https://minerva.money/#/buy\_mlp#redeem).&#x20;
+Key in the amount of MLP you'd like to redeem at [https://minerva.money/#/buy\_mlp#redeem](https://minerva.money/#/buy\_mlp#redeem).
 
 #### Token Pricing
 
@@ -55,5 +57,3 @@ Token weights are adjusted to help hedge MLP holders based on the open positions
 If token prices are increasing, then the price of MLP will increase as well, even if a lot of traders have a long position on the platform. The portion reserved for long positions can be treated as stable in terms of its USD value since if prices increase the profits from that portion will be used to pay traders, and if prices decrease, the losses of traders will keep the USD value of the reserve portion the same.\
 \
 If a lot of traders are short and larger weights are given to stablecoins, then MLP holders would have a synthetic exposure to the tokens being shorted, e.g. if ETH is being shorted then the price of MLP will decrease if the price of ETH decreases, if the price of ETH increases then the price of MLP will increase from the losses of the short positions.
-
-###
