@@ -4,7 +4,7 @@ description: The next phase of Sterling.Finance
 
 # 🦉 Introduction
 
-Minerva is a spin off decentralized exchange of Sterling.Finance on Arbitrum. Minerva is a decentralized perpetuals exchange on Optimism.\
+Minerva is a spin off decentralized exchange of GMX. Minerva is a decentralized perpetuals exchange on Optimism.\
 \
 Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees and leverage trading.\
 \

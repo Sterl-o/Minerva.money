@@ -17,7 +17,7 @@ Minerva aims to have a sustainable emission schedule and proper emission managem
 \
 The tokenomics were designed to have a maximum cap of $MINE tokens, so scarcity is a major player in controlling the supply and demand of the $MINE tokens.\
 \
-MINE Token Supply is limited to **10,000,000**. Meaning no more tokens will be minted. This way we have split the token emission between the migration from [sterling.finance](https://sterling.finance) and [minerva.money](https://minerva.money).\
+MINE Token Supply is limited to **10,000,000**. Meaning no more tokens will be minted. This way we have split the token emission between the migration and [Minerva](http://minerva.money/).\
 \
 Check the allocations table below for Minerva:
 

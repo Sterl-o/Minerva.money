@@ -8,7 +8,7 @@ description: Get fee discounts and earn rebates through the Minerva referral pro
 
 To create a referral code:
 
-* Go to h[ttps://minerva.money/#/referrals](ttps://minerva.money/#/referrals)
+* Go to [Referrals](https://minerva.money/#/referrals)
 * Click on the Affiliates tab
 * Create a referral code using any combination of letters, numbers and underscores
 

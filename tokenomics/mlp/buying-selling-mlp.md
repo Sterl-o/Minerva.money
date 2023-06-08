@@ -1,5 +1,5 @@
 ---
-description: Buying and selling GLP can be done through the MLPRewardRouter.
+description: Buying and selling MLP can be done through the MLPRewardRouter.
 ---
 
 # Buying / Selling MLP
