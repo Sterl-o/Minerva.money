@@ -28,6 +28,7 @@
 
 ## 🏅 Core Features
 
+* [📈 Fees](core-features/fees.md)
 * [🔄 Trading](core-features/trading/README.md)
   * [Swap](core-features/trading/swap.md)
   * [Query Available Amounts](core-features/trading/query-available-amounts.md)
