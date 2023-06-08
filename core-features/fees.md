@@ -11,6 +11,3 @@ Minerva collects fees in 4 different forms:
 \-60% of the fees will go to MLP stakers.\
 \-30% of the fees will go to Mine and allMine stakers.\
 \-10% of the fees will go the treasury
-
-
-
