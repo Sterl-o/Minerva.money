@@ -4,7 +4,7 @@ description: 'Introducing: Weekly Perp Trading Competition'
 
 # 🏆 Weekly Competition
 
-Starting Monday **June 12 at 00:01am UTC**, we will start a weekly trading competition. Every week we will announce a 1-week long competition for a specific trading pair, where anyone in the Minerva community has the opportunity to trade $1000 to win up to $3000\*! There will be 3 top prizes awarded at the end of each competition period:
+Starting Monday **June 12** at **00:01am UTC**, we will start a weekly trading competition. Every week we will announce a 1-week long competition for a specific trading pair, where anyone in the Minerva community has the opportunity to trade $1000 to win up to $3000\*! There will be 3 top prizes awarded at the end of each competition period:
 
 1. $2000 USDC Reward to the Address with the Most Volume Traded&#x20;
 2. $500 USDC Reward to Two Users Selected at Random who traded the token of the week.
