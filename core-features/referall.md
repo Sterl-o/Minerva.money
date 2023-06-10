@@ -2,7 +2,7 @@
 description: Get fee discounts and earn rebates through the Minerva referral program.
 ---
 
-# 🏆 Referall
+# 🫂 Referall
 
 ### How it works
 

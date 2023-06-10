@@ -28,6 +28,7 @@
 
 ## 🏅 Core Features
 
+* [🏆 Weekly Competition](core-features/weekly-competition.md)
 * [🔄 Trading](core-features/trading/README.md)
   * [Swap](core-features/trading/swap.md)
   * [Query Available Amounts](core-features/trading/query-available-amounts.md)
@@ -36,7 +37,7 @@
   * [Position List](core-features/trading/position-list.md)
 * [📈 Fees](core-features/fees.md)
 * [💰 Rewards](core-features/rewards.md)
-* [🏆 Referall](core-features/referall.md)
+* [🫂 Referall](core-features/referall.md)
 * [🏛 Governance](core-features/governance.md)
 
 ## 📄 Terms and Services

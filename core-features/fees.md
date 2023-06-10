@@ -11,3 +11,7 @@ Minerva collects fees in 4 different forms:
 \-60% of the fees will go to MLP stakers.\
 \-30% of the fees will go to Mine and allMine stakers.\
 \-10% of the fees will go the treasury
+
+{% hint style="info" %}
+The 10% fees going to the treasury will be reinjected into the protocol, either by paying for keepers / bots, liquidation bots, and / or to LP with $MINE on the market to increase our POL.&#x20;
+{% endhint %}
