@@ -10,7 +10,7 @@ Starting Monday **June 12** at **00:01am UTC**, we will start a weekly trading c
 2. $500 USDC Reward to Two Users Selected at Random who traded the token of the week.
 
 {% hint style="info" %}
-The prize pool for the week will be readjusted every week depending on how much fees the protocol will generate during the previous week's competition.&#x20;
+\*The prize pool for the week will be readjusted every week depending on how much fees the protocol will generate during the previous week's competition.&#x20;
 {% endhint %}
 
 ### Competition Details
